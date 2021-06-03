@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The representations of his Majesties adherents of the court and countrey, their interest with the King, and the Scots with them. / Published for satisfaction of the honest well-meaning people of the kingdom. A. Borialis.</title>
+            <author>Borialis, A.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91677</idno><idno type="EEBO-CITATION">99863357</idno>
+  <idno type="VID">161391</idno>
+  <idno type="EEBO-PROQUEST">2240905142</idno>
+  
+            <idno type="STC">Wing R1111</idno>
+            <idno type="STC">Thomason E422_20</idno>
+            <idno type="STC">ESTC R203390</idno>
+            <idno type="PROQUEST">99863357</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863357e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161391)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The representations of his Majesties adherents of the court and countrey, their interest with the King, and the Scots with them. / Published for satisfaction of the honest well-meaning people of the kingdom. A. Borialis.</title>
+                  <author>Borialis, A.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hickman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A. Borialis is a pseudonym.</note>
+                  <note>Annotations on Thomason copy: "Jan: 11th 1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161391:1"/>
+            <p>THE REPRESENTATIONS OF HIS MAJESTIES ADHERENTS OF THE COURT and COUNTREY, Their Interest with the KING, and the SCOTS with them.</p>
+            <p>Published For satisfaction of the honest well-mea<g ref="char:EOLhyphen"/>ning people of the Kingdom. A. BORIALIS.</p>
+            <p>LONDON, Printed for <hi>John Hickman,</hi> 1648</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161391:2"/>
+            <pb n="1" facs="tcp:161391:2"/>
+            <head>THE COURT and COUNTREY CAVALIERE</head>
+            <p>CAvaliers though they are many, yet they are all but of two sorts, The more subtile, and the more simple. The Subtiltitian or politicke Cavalier is one that detains the truth in unrighteousnesse. Knowes he is in an errour but beleeves it wisdome for him to bee so. Hee does not Idolize the King (though content that others should) but himselfe: None in<g ref="char:EOLhyphen"/>deed cries him up more nor in heart intends himselfe then he, who is content to be a royall slave that himselfe may be made a popu<g ref="char:EOLhyphen"/>lar tirant, he makes a Staulking-horse of Prerogative, to aime at preferment, either to keepe what hee hath, or to get what hee would have, Court-honour and other mens estates. Marke them, and in all their wayes you shal see <hi>selfe-love</hi> the load-stone of their loyalty, even in these times of warre, who faced better with the King and fought worse for him then they that before were in court-favour, no, it was their duty to attend him in the safest
+<pb n="2" facs="tcp:161391:3"/>place of the feild furthest from danger, and to advice him to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n for his life that the might doe the like for theirs, the whilst the poore mercinary and seduced Cavaliers with some small men of honour stood to it till they fell and were offered in sacrifice like so many sheepe and oxen to the prerogative major and minor of the King and his courtiers, who that while were shifting for them<g ref="char:EOLhyphen"/>selves. Being as glad of the distruction of one another in case ei<g ref="char:EOLhyphen"/>ther of envy or ambition (the courtiers cardinall vertues) as of the round-heads their enemies. And because His Majesty found the past of his owne party beate after that sort, he gave them fit phi<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> for their disease, plied them with Court holy water, titu<g ref="char:EOLhyphen"/>lar Honours and large promises, the presse-money of prerogative, which they all tooke thankefully, and thereby were engaged for ever to fight under the Kings coulours (if they ran not away) and all else that they by their petty prerogatives could engage with themselves for themselves, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Whereupon:</p>
+            <p>The Simplician or impoliticke Cavalier enters the lists, and sin<g ref="char:EOLhyphen"/>cerely but simply thinks he ows more duty to the King then to his Country, for which both he and the King was borne; comming from his Hounds or his Hawkes, a Tavern or an Ale-house, chops in on that side where he sees most good-fellows without feare or wit, and is at first so thunder-strucke with the word <hi>King,</hi> that he is never after able to recover his sences, but raves upon it without reason or consideration, ventures soule and body for him and is as sure of salvation if hee die in so good a cause (though with <hi>damice him</hi> in his mouth) as a Romish Priest that is hanged at <hi>Tiburne</hi> with the Popes pardon in h s pocket, He thinks there is no sin but Tre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>son and Rebellion, nor no Treason or Rebellion but against the person of the King, which yet is onely sacred for the Common-wealths sake, &amp; therfore it self must needs be much more so, He values a Pot and a Pipe above liberty and property, and thinkes the Parliament is more against liberty than the King, because they talke of reformation. He never considers what's at stake except it be a Beare or a Bull. Wanting wit himselfe hee adores <hi>Prag<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>maticu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for his, whom these simpler sort of Cavaliers have in as much admiration as country people when they came to Court were wont to have Archer or Will: Summers. They
+<pb n="3" facs="tcp:161391:3"/>have heard talke of gallant men that fought for their King, to wit, against the French and Scotch, when Country and King were joyntly ingaged, he for it, and it for it selfe and him, and in their simplicity they take it for a generall rule without ex<g ref="char:EOLhyphen"/>ception, and thinke it equally honourable to fight for him a<g ref="char:EOLhyphen"/>gainst their Country, as when others fought both for him, and it against forraigne nations. Who ever were better Souldiers then they that were the best Subjects (not slaves) or fought better for their King abroad then those that against usurpation defended their Lawes and Liberties at home, even these mens Progenitors. But because it never came under the caps of these their degenerate Of-spring (for vertue never runnes long in a line) to fore-thinke the mischeife of an arbitrary power, they they are angry that any are wiser then themselves and cry out of the Parliament for not making the King a glorious Prince (as they say is promised) that is, in their sense for not laying the reines of Government on the neck of the depraved will of one man, wheras it is alone for a man to reign as for a beast to reign witnesse the great Turk, &amp; Christian Princes are to better if ex<g ref="char:EOLhyphen"/>posed without Laws to be Laws to themselves, and their inordi<g ref="char:EOLhyphen"/>nate wills backed with unlimited power, the proper effects of a negative voyce and regall Militia, those piliers of arbitrary pre<g ref="char:EOLhyphen"/>rogative, so much insisted upon to bee reared by the Sco<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in <hi>England,</hi> who have indeed reason to stand for pr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ogative when they themselves pretend to a negative voyce (a s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep further then the dispose of the Kings person) and plead the Covenant, not to be free denizons for t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a's below them) but s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>klers in State, which designe was formerly driven to their hand (though not behind their backes) by thirteene of the eleven, but now they are fain to set a good face on't and put for't them clves, their a<g ref="char:EOLhyphen"/>gitators being transmarine, they have told us (I know not how often) that they waded up to the arme-pits in snow when they first came in, of purpose to help<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their poore oppressed brethren but it seemes upon the thaw their mindes changed or if it be the same, then they came to helpe the oppressed into oppression different languages being subject to mis-understanding. But if it be a change then are they in hope to make as good a bargaine
+<pb n="4" facs="tcp:161391:4"/>for themselves of prerogative as they did of the prince that being now under Scotch custody as he was then, and doubtlesse two such Jewels of the Crowne as are the Militia, and negative voyce, now our brethren pretend to have them under locke and key, must be dearly redeemed as he was; when they goe about to gratifie for that mercinary over-fight by offering him a Scotch dispensation for his Coronation Oath here in <hi>England</hi> decrying the Parliaments preamble to the pro<g ref="char:EOLhyphen"/>positions as knowing the duty of his place better then they, and putting him in hope of a new war, but as the King of <hi>France</hi> once said to a King of <hi>England; It's bet<g ref="char:EOLhyphen"/>ter beleeving an open enemy than a false friend, and hee found it true upon tryall.</hi>
+            </p>
+            <p>Its dangerous trading with Scotch Merchants, but certainly the best way for us is to buy out the Cove<g ref="char:EOLhyphen"/>nant in grosse, better than thus to retaile it in parcels, and redeem our Legislative English Liberties and Properties, all at once of our dear Brethren, which it seems indeed the Scots came to fight for, and gave us leave to Conquer, that they might overcome, it being a received position, that Englishmen lose by Treaty what they get by the Sword, which imboldens our Brethren to hope to be too hard for us at blunt, though not at sharp, and therefore nothing will serve but a personall Treaty with the King, and a Nationall with Them, by which and the <hi>Londoners</hi> good favour, they hope to make their Markets, and put us to an after game. But to return, though I am not much out of my way, nor wide of the Mark, when I take a Scot for a Cavalier, but I say to return:</p>
+            <p>We have had wofull experience of the Kings inor<g ref="char:EOLhyphen"/>dinate
+<pb n="5" facs="tcp:161391:4"/>desire to be absolute, notwithstanding <hi>Magna Charta, Petition of Right, The Coronation Oath.</hi> All which have proved but like <hi>Samsons</hi> cords, and conse<g ref="char:EOLhyphen"/>quently what can be imagined would have been the Peoples portion, if by conquest he had gotten above the Laws, especially when so many hungry <hi>Harpies</hi> as are advanced to Titles of Honour, must have had those Honours made honourable by proportionable Estates, and petty Prerogatives, the reward of their service. What Kings were ever more glorious then they that most studyed their People, and least them<g ref="char:EOLhyphen"/>selves, how have they had the hearts, hands, &amp; purses of the whole Common-wealth, been able to fight with and conquer <hi>France</hi> and <hi>Scotland?</hi> The glory of a King is in the love and liberty of his Subjects, to be the King of Free-men, as the Parliament would make him, and not of slaves, as he would make himself. But those that are slaves to the Devill, and their own lusts, and think it liberty to be so, no wonder, if they can brook the yoke of Arbitrary bondage, it is the fittest for them, and were just upon them, that have fought for it; and against them that fought for them against it. We have imitated so long the <hi>French</hi> fashions, that we had almost been Apes indeed, under no other go<g ref="char:EOLhyphen"/>vernment, but a Whip and a Bell. Its well some's wiser then some, and that the Kingdome hath found friends, as well as the King fools and flatterers. Its strange to see how <hi>Englands</hi> Mastives are turned to Shepherds Curs, meer Sheep-biters. True Honour and Valour was wont to Entitle a man Cavalier, but now it signifies nothing but a Malignant on hors-back treading down his Countrey, as St. <hi>George</hi> does the
+<pb n="6" facs="tcp:161391:5"/>Dragon, only they have not yet attained the honour of a Signe-post, who deserve to be hang'd in Effigie, to the shame of Paricides, but that the Hierogliphick of so strange a creature and monster of mankinde, can<g ref="char:EOLhyphen"/>not be drawn to the life, except by a <hi>French</hi> Limn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. The best representation of him is a <hi>Janisary,</hi> who is born a <hi>Christian</hi> and bred a <hi>Turke,</hi> and whose nature is so changed by his Education, that ever after he fights against his own Father and Mother.</p>
+            <p>Had the Cavaliers of old been no better, wiser, and nobler then those of this Age. The great <hi>Charter,</hi> and <hi>Great Britain</hi> too, had long before this day been low enough, and little enough, but as they are changed from <hi>Patriots</hi> to <hi>Paricides,</hi> so there is hope when they are at worst they may turn English-men againe, for they must acknowledge that either they are the Sons of Traitors and Rebels that fought for their Country, Laws, and Liberties; or that they themselves are so, for fighting against them. But they know as much what belongs to Reason and publick-weal or Interest, as the Horses they ride upon, therfore Ile leave them<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as I found them, sick of the Simples, and wait to see if the next change of the Moon will cure them, and re<g ref="char:EOLhyphen"/>store them to their senses, which will hardly be, ex<g ref="char:EOLhyphen"/>cept their tongues as well as their hands be tyed to the good behaviour (for they have wit to rule neither<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and made to leave scolding as well as fighting, fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> since they could not prevaile with their Swords, they hope to carry it by words, and ceasing to be me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they are turn'd women. <hi>Pragmatically</hi> valiant. <hi>Impri. Gilb. Mabbott.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
